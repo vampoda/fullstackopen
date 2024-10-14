@@ -1,0 +1,1 @@
+in this part i started with how to create mermaid diagram and completed 3 exercise of creating diagrams

@@ -1,3 +1,1 @@
-this repo consist of exercises completed  
-
-during mooc and i improved my skills on lot of technologies during this.
+This repository contains exercises completed during the Full Stack Open course. I learned a lot from it
